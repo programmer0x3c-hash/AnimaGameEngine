@@ -1,21 +1,91 @@
-MIT License
+Copyright (c) 2026 Astra
+All rights reserved.
 
-Copyright (c) 2026 astra
+This License governs the use of the Astra Engine, including its source
+code, tools, and documentation (the "Engine").
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This is a proprietary license. The Engine is not open source.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. Grant of License
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+Subject to the terms of this License, the copyright holder grants you a
+non-exclusive, non-transferable, revocable license to:
+
+(a) Access, download, view, compile, run, and modify the Engine source
+    code for internal use;
+(b) Use the Engine to develop games, applications, or other interactive
+    products ("Products"), including for commercial purposes.
+
+2. Restrictions
+
+You may NOT:
+
+(a) Distribute, sublicense, sell, lease, or otherwise provide the Engine
+    or any modified version of the Engine as a standalone product;
+(b) Release, market, or distribute the Engine, or a substantially
+    similar derivative, as a competing game engine, framework, SDK,
+    or development platform;
+(c) Rebrand, rename, or claim ownership of the Engine or its source code;
+(d) Remove or alter copyright, trademark, or attribution notices;
+(e) Use the Engine to create products whose primary purpose is engine
+    development or redistribution.
+
+3. Ownership
+
+The Engine, including all source code and modifications thereto, remains
+the exclusive property of the copyright holder. This License grants
+usage rights only and does not transfer ownership.
+
+4. Products Made With the Engine
+
+You retain ownership of any Products you create using the Engine,
+excluding the Engine itself.
+
+5. Royalty
+
+(a) Royalty Obligation  
+You agree to pay a royalty equal to **five percent (5%) of Gross Revenue**
+generated from each Product that is developed using the Engine.
+
+(b) Gross Revenue Definition  
+"Gross Revenue" means all revenue actually received or receivable from a
+Product, including but not limited to sales, in-app purchases,
+subscriptions, advertising revenue, crowdfunding tied to the Product,
+and any other form of monetization, **before** deducting any costs,
+taxes, platform fees, or expenses.
+
+(c) Reporting and Payment  
+Royalty payments must be reported and paid on a quarterly basis, within
+thirty (30) days after the end of each calendar quarter.
+
+(d) Audit Rights  
+The copyright holder reserves the right, upon reasonable notice, to audit
+financial records solely for the purpose of verifying royalty payments.
+
+(e) Waivers and Thresholds  
+Any royalty-free thresholds, reduced rates, or waivers must be granted
+explicitly in writing and are not implied by this License.
+
+6. Contributions
+
+Any feedback, suggestions, or source code contributions submitted to the
+copyright holder may be used, modified, or incorporated into the Engine
+without compensation or attribution.
+
+7. Termination
+
+This License is automatically terminated if you violate any of its
+terms. Upon termination, you must immediately cease all use of the
+Engine and destroy all copies in your possession.
+
+8. Disclaimer
+
+THE ENGINE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+9. Limitation of Liability
+
+IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES,
+OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE,
+ARISING FROM OR IN CONNECTION WITH THE ENGINE OR ITS USE.
